@@ -1,4 +1,4 @@
-// 3. Write a code that will input for two numbers. Compute and display for the sum, difference, product, and quotient.
+// 3. Write a C++ code that will input for two numbers. Compute and display for the sum, difference, product, and quotient.
 
 #include <iostream>
 using namespace std;
